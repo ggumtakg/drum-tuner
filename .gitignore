@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+.vite
+*.local
+coverage
+android/local.properties
+android/.gradle/
+android/app/build/
+android/build/
+android/captures/
+drum-tuner.apk
+.memory/
